@@ -262,7 +262,7 @@ hr {
 .flex-navigation-container-main-menu-items li {
    display: inline-block;
    list-style-type: none;
-   padding: 1em;
+   padding: 1.3em;
    margin-right: 20px;
    }
 }
@@ -292,13 +292,14 @@ hr {
    }
    
    ul {
-      padding-top: 1.6em;
+      padding-top: 3em;
    }
     
    .flex-navigation-container-main-menu-items li {
       display: inline-block;
       list-style-type: none;
       padding: 1em;
+      padding-top: 2.5em;
       margin-right: 20px;
    }
 
@@ -359,6 +360,11 @@ h2 {
 
 hr {
   color: transparent;
+   }
+
+   .flex-navigation-container-main-menu-items li {
+      padding-top: 1.2em;
+
    }
 
 }

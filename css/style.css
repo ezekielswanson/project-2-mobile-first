@@ -293,6 +293,7 @@ hr {
    
    ul {
       padding-top: 3em;
+      margin-top: 2em;
    }
     
    .flex-navigation-container-main-menu-items li {
@@ -301,6 +302,7 @@ hr {
       padding: 1em;
       padding-top: 2.5em;
       margin-right: 20px;
+      margin-top: .8em;
    }
 
 
@@ -360,6 +362,10 @@ h2 {
 
 hr {
   color: transparent;
+   }
+
+   .header-h3 {
+      margin-top: 1.7em;
    }
 
    .flex-navigation-container-main-menu-items li {
